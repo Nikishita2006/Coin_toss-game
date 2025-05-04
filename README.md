@@ -1,1 +1,1 @@
-# Coin_toss-game
+This is a cool coin game, where you have to guess whether the tossed coin is heads or tails, You can also bet your choice, It is a fun game which involves basic functions, loops and conditional statements of Python along with the random module
